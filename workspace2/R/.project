@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>R</name>
+	<comment>C:\C#\R\R.sln
+C:\C#\R\R\R.csproj
+false
+true
+</comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+		<nature>com.ibm.xtools.viz.dotnet.common.dotnetNature</nature>
+		<nature>com.ibm.xtools.viz.dotnet.common.csNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>R</name>
+			<type>2</type>
+			<location>C:/C#/R/R</location>
+		</link>
+		<link>
+			<name>mscorlib.dll</name>
+			<type>1</type>
+			<location>C:/WINDOWS/Microsoft.NET/Framework/v2.0.50727/mscorlib.dll</location>
+		</link>
+	</linkedResources>
+</projectDescription>

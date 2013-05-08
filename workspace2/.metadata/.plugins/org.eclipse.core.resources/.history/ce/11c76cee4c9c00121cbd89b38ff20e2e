@@ -1,0 +1,91 @@
+
+using Overviews.База_данных;
+using System;
+
+
+
+
+
+// @generated
+namespace Blank_Package2.Редактирование_расписания
+{
+
+	
+	// @generated
+	public class Редактирование_расписания
+	{
+
+
+		// @generated
+		private Расписание расписание;
+
+
+
+		// @generated
+		private Object Экран_приветствия;
+
+
+
+		// @generated
+		private Операторы оператор;
+
+
+
+		// @generated
+		private Маршрут маршрут;
+
+
+
+		// @generated
+		private Операторы операторы;
+
+
+
+		// @generated
+		private GUI_диспетчера gUI_диспетчера2;
+
+
+	
+		// @generated
+		public void Выбор_начальной_и_конечной_станции()
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+	
+		// @generated
+		public void Выбор_времени_отправления_от_начальной_станции()
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+	
+		// @generated
+		public void Изменения_по_времени_отправления()
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+	
+		// @generated
+		public void Сохранение_выполненных_изменений()
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+
+	}
+	
+
+}
+
+
+

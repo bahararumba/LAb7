@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<xmi:XMI xmlns:datamodelversion="http://www.ibm.com/com.ibm.datatools.core/model/data/1.1.0.0" xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:SQLConstraints="http:///org/eclipse/datatools/modelbase/sql/constraints.ecore" xmlns:SQLDataTypes="http:///org/eclipse/datatools/modelbase/sql/datatypes.ecore" xmlns:SQLSchema="http:///org/eclipse/datatools/modelbase/sql/schema.ecore" xmlns:SQLTables="http:///org/eclipse/datatools/modelbase/sql/tables.ecore" xmlns:datanotation="http:///datanotation.ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation">
+  <SQLSchema:Database xmi:id="_fQft8JxOEeKuMIq7Lg2a0g" name="Database" vendor="SQL Server" version="2008" schemas="_fVtlIJxOEeKuMIq7Lg2a0g"/>
+  <SQLSchema:Schema xmi:id="_fVtlIJxOEeKuMIq7Lg2a0g" name="Schema" tables="_h6EYQJxOEeKuMIq7Lg2a0g _YUUwkJxPEeKuMIq7Lg2a0g _rzjJYJxPEeKuMIq7Lg2a0g" database="_fQft8JxOEeKuMIq7Lg2a0g">
+    <eAnnotations xmi:id="_fWKREJxOEeKuMIq7Lg2a0g" source="diagram">
+      <contents xsi:type="datanotation:DataDiagram" xmi:id="_fWKREZxOEeKuMIq7Lg2a0g" type="IE_CrowFoot" name="Diagram1" viewKind="ProjectExplorer" notation="IE_CrowFoot" kind="Physical">
+        <children xmi:id="_h6OJQJxOEeKuMIq7Lg2a0g" element="_h6EYQJxOEeKuMIq7Lg2a0g">
+          <children xsi:type="notation:Shape" xmi:id="_h6OJQ5xOEeKuMIq7Lg2a0g" type="TableName" description="Text">
+            <children xsi:type="notation:BasicDecorationNode" xmi:id="_h6OJRpxOEeKuMIq7Lg2a0g" type="DiagramName"/>
+            <children xsi:type="notation:BasicDecorationNode" xmi:id="_h6OJR5xOEeKuMIq7Lg2a0g" type="Description"/>
+            <styles xsi:type="notation:FontStyle" xmi:id="_h6OJRJxOEeKuMIq7Lg2a0g"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_h6OJRZxOEeKuMIq7Lg2a0g"/>
+          </children>
+          <children xmi:id="_h6OJSJxOEeKuMIq7Lg2a0g" type="Key.Compartment">
+            <children xsi:type="notation:Shape" xmi:id="_jkDYYZxPEeKuMIq7Lg2a0g" type="Key" element="_VIUuoJxPEeKuMIq7Lg2a0g" description="Text">
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_jkDYZJxPEeKuMIq7Lg2a0g" type="DiagramName"/>
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_jkDYZZxPEeKuMIq7Lg2a0g" type="Description"/>
+              <styles xsi:type="notation:FontStyle" xmi:id="_jkDYYpxPEeKuMIq7Lg2a0g"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_jkDYY5xPEeKuMIq7Lg2a0g"/>
+            </children>
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_h6OJSZxOEeKuMIq7Lg2a0g"/>
+          </children>
+          <children xmi:id="_h6OJSpxOEeKuMIq7Lg2a0g" type="Column.Compartment">
+            <children xsi:type="notation:Shape" xmi:id="_KTRQopxPEeKuMIq7Lg2a0g" type="Column" element="_KTRQoJxPEeKuMIq7Lg2a0g" description="Text">
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_KTRQpZxPEeKuMIq7Lg2a0g" type="DiagramName"/>
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_KTRQppxPEeKuMIq7Lg2a0g" type="Description"/>
+              <styles xsi:type="notation:FontStyle" xmi:id="_KTRQo5xPEeKuMIq7Lg2a0g"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_KTRQpJxPEeKuMIq7Lg2a0g"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_PM8VUpxPEeKuMIq7Lg2a0g" type="Column" element="_PM8VUJxPEeKuMIq7Lg2a0g" description="Text">
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_PM8VVZxPEeKuMIq7Lg2a0g" type="DiagramName"/>
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_PM8VVpxPEeKuMIq7Lg2a0g" type="Description"/>
+              <styles xsi:type="notation:FontStyle" xmi:id="_PM8VU5xPEeKuMIq7Lg2a0g"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_PM8VVJxPEeKuMIq7Lg2a0g"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_R3tScpxPEeKuMIq7Lg2a0g" type="Column" element="_R3tScJxPEeKuMIq7Lg2a0g" description="Text">
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_R3tSdZxPEeKuMIq7Lg2a0g" type="DiagramName"/>
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_R3tSdpxPEeKuMIq7Lg2a0g" type="Description"/>
+              <styles xsi:type="notation:FontStyle" xmi:id="_R3tSc5xPEeKuMIq7Lg2a0g"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_R3tSdJxPEeKuMIq7Lg2a0g"/>
+            </children>
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_h6OJS5xOEeKuMIq7Lg2a0g"/>
+          </children>
+          <children xmi:id="_h6OJTJxOEeKuMIq7Lg2a0g" visible="false" type="Index.Compartment">
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_h6OJTZxOEeKuMIq7Lg2a0g"/>
+          </children>
+          <children xmi:id="_h6OJTpxOEeKuMIq7Lg2a0g" visible="false" type="Trigger.Compartment">
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_h6OJT5xOEeKuMIq7Lg2a0g"/>
+          </children>
+          <styles xsi:type="datanotation:TableStyle" xmi:id="_h6OJQZxOEeKuMIq7Lg2a0g"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_h6OJQpxOEeKuMIq7Lg2a0g" x="4048" y="5106"/>
+        </children>
+        <children xmi:id="_YUUwkZxPEeKuMIq7Lg2a0g" element="_YUUwkJxPEeKuMIq7Lg2a0g">
+          <children xsi:type="notation:Shape" xmi:id="_YUUwlJxPEeKuMIq7Lg2a0g" type="TableName" description="Text">
+            <children xsi:type="notation:BasicDecorationNode" xmi:id="_YUUwl5xPEeKuMIq7Lg2a0g" type="DiagramName"/>
+            <children xsi:type="notation:BasicDecorationNode" xmi:id="_YUUwmJxPEeKuMIq7Lg2a0g" type="Description"/>
+            <styles xsi:type="notation:FontStyle" xmi:id="_YUUwlZxPEeKuMIq7Lg2a0g"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_YUUwlpxPEeKuMIq7Lg2a0g"/>
+          </children>
+          <children xmi:id="_YUUwmZxPEeKuMIq7Lg2a0g" type="Key.Compartment">
+            <children xsi:type="notation:Shape" xmi:id="_iHNm8JxPEeKuMIq7Lg2a0g" type="Key" element="_ZagVgJxPEeKuMIq7Lg2a0g" description="Text">
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_iHNm85xPEeKuMIq7Lg2a0g" type="DiagramName"/>
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_iHNm9JxPEeKuMIq7Lg2a0g" type="Description"/>
+              <styles xsi:type="notation:FontStyle" xmi:id="_iHNm8ZxPEeKuMIq7Lg2a0g"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_iHNm8pxPEeKuMIq7Lg2a0g"/>
+            </children>
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_YUUwmpxPEeKuMIq7Lg2a0g"/>
+          </children>
+          <children xmi:id="_YUd6gJxPEeKuMIq7Lg2a0g" type="Column.Compartment">
+            <children xsi:type="notation:Shape" xmi:id="_cAW9cpxPEeKuMIq7Lg2a0g" type="Column" element="_cAW9cJxPEeKuMIq7Lg2a0g" description="Text">
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_cAW9dZxPEeKuMIq7Lg2a0g" type="DiagramName"/>
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_cAW9dpxPEeKuMIq7Lg2a0g" type="Description"/>
+              <styles xsi:type="notation:FontStyle" xmi:id="_cAW9c5xPEeKuMIq7Lg2a0g"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_cAW9dJxPEeKuMIq7Lg2a0g"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_h9rQcJxPEeKuMIq7Lg2a0g" type="Column" element="_e5IhYJxPEeKuMIq7Lg2a0g" description="Text">
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_h9rQc5xPEeKuMIq7Lg2a0g" type="DiagramName"/>
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_h9rQdJxPEeKuMIq7Lg2a0g" type="Description"/>
+              <styles xsi:type="notation:FontStyle" xmi:id="_h9rQcZxPEeKuMIq7Lg2a0g"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_h9rQcpxPEeKuMIq7Lg2a0g"/>
+            </children>
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_YUd6gZxPEeKuMIq7Lg2a0g"/>
+          </children>
+          <children xmi:id="_YUd6gpxPEeKuMIq7Lg2a0g" visible="false" type="Index.Compartment">
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_YUd6g5xPEeKuMIq7Lg2a0g"/>
+          </children>
+          <children xmi:id="_YUd6hJxPEeKuMIq7Lg2a0g" visible="false" type="Trigger.Compartment">
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_YUd6hZxPEeKuMIq7Lg2a0g"/>
+          </children>
+          <styles xsi:type="datanotation:TableStyle" xmi:id="_YUUwkpxPEeKuMIq7Lg2a0g"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_YUUwk5xPEeKuMIq7Lg2a0g" x="16324" y="5767"/>
+        </children>
+        <children xmi:id="_rzjJYZxPEeKuMIq7Lg2a0g" element="_rzjJYJxPEeKuMIq7Lg2a0g">
+          <children xsi:type="notation:Shape" xmi:id="_rzjJZJxPEeKuMIq7Lg2a0g" type="TableName" description="Text">
+            <children xsi:type="notation:BasicDecorationNode" xmi:id="_rzjJZ5xPEeKuMIq7Lg2a0g" type="DiagramName"/>
+            <children xsi:type="notation:BasicDecorationNode" xmi:id="_rzjJaJxPEeKuMIq7Lg2a0g" type="Description"/>
+            <styles xsi:type="notation:FontStyle" xmi:id="_rzjJZZxPEeKuMIq7Lg2a0g"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_rzjJZpxPEeKuMIq7Lg2a0g"/>
+          </children>
+          <children xmi:id="_rzjJaZxPEeKuMIq7Lg2a0g" type="Key.Compartment">
+            <children xsi:type="notation:Shape" xmi:id="_wBtL4JxPEeKuMIq7Lg2a0g" type="Key" element="_wBHWAJxPEeKuMIq7Lg2a0g" description="Text">
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_wBtL45xPEeKuMIq7Lg2a0g" type="DiagramName"/>
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_wBtL5JxPEeKuMIq7Lg2a0g" type="Description"/>
+              <styles xsi:type="notation:FontStyle" xmi:id="_wBtL4ZxPEeKuMIq7Lg2a0g"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_wBtL4pxPEeKuMIq7Lg2a0g"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_xMqjIJxPEeKuMIq7Lg2a0g" type="Key" element="_xMN3MJxPEeKuMIq7Lg2a0g" description="Text">
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_xMqjI5xPEeKuMIq7Lg2a0g" type="DiagramName"/>
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_xMqjJJxPEeKuMIq7Lg2a0g" type="Description"/>
+              <styles xsi:type="notation:FontStyle" xmi:id="_xMqjIZxPEeKuMIq7Lg2a0g"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_xMqjIpxPEeKuMIq7Lg2a0g"/>
+            </children>
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_rzjJapxPEeKuMIq7Lg2a0g"/>
+          </children>
+          <children xmi:id="_rzjJa5xPEeKuMIq7Lg2a0g" type="Column.Compartment">
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_rzjJbJxPEeKuMIq7Lg2a0g"/>
+          </children>
+          <children xmi:id="_rzjJbZxPEeKuMIq7Lg2a0g" visible="false" type="Index.Compartment">
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_rzjJbpxPEeKuMIq7Lg2a0g"/>
+          </children>
+          <children xmi:id="_rzjJb5xPEeKuMIq7Lg2a0g" visible="false" type="Trigger.Compartment">
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_rzjJcJxPEeKuMIq7Lg2a0g"/>
+          </children>
+          <styles xsi:type="datanotation:TableStyle" xmi:id="_rzjJYpxPEeKuMIq7Lg2a0g"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_rzjJY5xPEeKuMIq7Lg2a0g" x="9207" y="5371"/>
+        </children>
+        <styles xsi:type="datanotation:DataAttributeStyle" xmi:id="_fWKREpxOEeKuMIq7Lg2a0g"/>
+        <styles xsi:type="datanotation:DataCompartmentStyle" xmi:id="_fWKRE5xOEeKuMIq7Lg2a0g"/>
+        <styles xsi:type="datanotation:DataDisplayStyle" xmi:id="_fWKRFJxOEeKuMIq7Lg2a0g"/>
+        <styles xsi:type="datanotation:DataDiagramRelationshipStyle" xmi:id="_fWKRFZxOEeKuMIq7Lg2a0g"/>
+        <styles xsi:type="datanotation:DataShapeNameStyle" xmi:id="_fWKRFpxOEeKuMIq7Lg2a0g"/>
+        <styles xsi:type="datanotation:DataDiagramFormattingStyle" xmi:id="_fWKRF5xOEeKuMIq7Lg2a0g"/>
+        <element xsi:nil="true"/>
+        <edges xmi:id="_wCJ30JxPEeKuMIq7Lg2a0g" element="_wA9lAJxPEeKuMIq7Lg2a0g" source="_h6OJQJxOEeKuMIq7Lg2a0g" target="_rzjJYZxPEeKuMIq7Lg2a0g">
+          <children xmi:id="_wCJ305xPEeKuMIq7Lg2a0g" type="ForeignKey.Name.Label">
+            <children xsi:type="notation:Shape" xmi:id="_wCTo0JxPEeKuMIq7Lg2a0g" type="FKRelationshipName" description="Text">
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_wCTo05xPEeKuMIq7Lg2a0g" type="DiagramName"/>
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_wCTo1JxPEeKuMIq7Lg2a0g" type="Description"/>
+              <styles xsi:type="notation:FontStyle" xmi:id="_wCTo0ZxPEeKuMIq7Lg2a0g"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_wCTo0pxPEeKuMIq7Lg2a0g"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_wCJ31JxPEeKuMIq7Lg2a0g" y="-186"/>
+          </children>
+          <children xmi:id="_wCTo1ZxPEeKuMIq7Lg2a0g" type="Child.RoleName">
+            <children xsi:type="notation:Shape" xmi:id="_wCTo15xPEeKuMIq7Lg2a0g" type="ChildRoleName" description="Text">
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_wCTo2pxPEeKuMIq7Lg2a0g" type="DiagramName"/>
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_wCTo25xPEeKuMIq7Lg2a0g" type="Description"/>
+              <styles xsi:type="notation:FontStyle" xmi:id="_wCTo2JxPEeKuMIq7Lg2a0g"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_wCTo2ZxPEeKuMIq7Lg2a0g"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_wCTo1pxPEeKuMIq7Lg2a0g" x="-265" y="-662"/>
+          </children>
+          <children xmi:id="_wCTo3JxPEeKuMIq7Lg2a0g" type="Parent.RoleName">
+            <children xsi:type="notation:Shape" xmi:id="_wCTo3pxPEeKuMIq7Lg2a0g" type="ParentRoleName" description="Text">
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_wCTo4ZxPEeKuMIq7Lg2a0g" type="DiagramName"/>
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_wCTo4pxPEeKuMIq7Lg2a0g" type="Description"/>
+              <styles xsi:type="notation:FontStyle" xmi:id="_wCTo35xPEeKuMIq7Lg2a0g"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_wCTo4JxPEeKuMIq7Lg2a0g"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_wCTo3ZxPEeKuMIq7Lg2a0g" y="-397"/>
+          </children>
+          <children xmi:id="_wCTo45xPEeKuMIq7Lg2a0g" type="Child.ReferentialIntegrity">
+            <children xsi:type="notation:Shape" xmi:id="_wCTo5ZxPEeKuMIq7Lg2a0g" type="ChildRiName" description="Text">
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_wCTo6JxPEeKuMIq7Lg2a0g" type="DiagramName"/>
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_wCTo6ZxPEeKuMIq7Lg2a0g" type="Description"/>
+              <styles xsi:type="notation:FontStyle" xmi:id="_wCTo5pxPEeKuMIq7Lg2a0g"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_wCTo55xPEeKuMIq7Lg2a0g"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_wCTo5JxPEeKuMIq7Lg2a0g" x="264" y="661"/>
+          </children>
+          <styles xsi:type="datanotation:DataLineStyle" xmi:id="_wCJ30ZxPEeKuMIq7Lg2a0g"/>
+          <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_wCJ30pxPEeKuMIq7Lg2a0g" points="[-2, -5, -3240, -214]$[2670, -5, -568, -214]"/>
+          <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_wCmjwJxPEeKuMIq7Lg2a0g" id="(1.0,0.38825995807127883)"/>
+          <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_wCmjwZxPEeKuMIq7Lg2a0g" id="(0.13618067978533094,0.4783634933123525)"/>
+        </edges>
+        <edges xmi:id="_xNQZAJxPEeKuMIq7Lg2a0g" element="_xL6VMJxPEeKuMIq7Lg2a0g" source="_YUUwkZxPEeKuMIq7Lg2a0g" target="_rzjJYZxPEeKuMIq7Lg2a0g">
+          <children xmi:id="_xNQZA5xPEeKuMIq7Lg2a0g" type="ForeignKey.Name.Label">
+            <children xsi:type="notation:Shape" xmi:id="_xNQZBZxPEeKuMIq7Lg2a0g" type="FKRelationshipName" description="Text">
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_xNQZCJxPEeKuMIq7Lg2a0g" type="DiagramName"/>
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_xNQZCZxPEeKuMIq7Lg2a0g" type="Description"/>
+              <styles xsi:type="notation:FontStyle" xmi:id="_xNQZBpxPEeKuMIq7Lg2a0g"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_xNQZB5xPEeKuMIq7Lg2a0g"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_xNQZBJxPEeKuMIq7Lg2a0g" y="-186"/>
+          </children>
+          <children xmi:id="_xNaKAJxPEeKuMIq7Lg2a0g" type="Child.RoleName">
+            <children xsi:type="notation:Shape" xmi:id="_xNaKApxPEeKuMIq7Lg2a0g" type="ChildRoleName" description="Text">
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_xNaKBZxPEeKuMIq7Lg2a0g" type="DiagramName"/>
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_xNaKBpxPEeKuMIq7Lg2a0g" type="Description"/>
+              <styles xsi:type="notation:FontStyle" xmi:id="_xNaKA5xPEeKuMIq7Lg2a0g"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_xNaKBJxPEeKuMIq7Lg2a0g"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_xNaKAZxPEeKuMIq7Lg2a0g" x="-265" y="-662"/>
+          </children>
+          <children xmi:id="_xNaKB5xPEeKuMIq7Lg2a0g" type="Parent.RoleName">
+            <children xsi:type="notation:Shape" xmi:id="_xNaKCZxPEeKuMIq7Lg2a0g" type="ParentRoleName" description="Text">
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_xNaKDJxPEeKuMIq7Lg2a0g" type="DiagramName"/>
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_xNaKDZxPEeKuMIq7Lg2a0g" type="Description"/>
+              <styles xsi:type="notation:FontStyle" xmi:id="_xNaKCpxPEeKuMIq7Lg2a0g"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_xNaKC5xPEeKuMIq7Lg2a0g"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_xNaKCJxPEeKuMIq7Lg2a0g" y="-397"/>
+          </children>
+          <children xmi:id="_xNaKDpxPEeKuMIq7Lg2a0g" type="Child.ReferentialIntegrity">
+            <children xsi:type="notation:Shape" xmi:id="_xNaKEJxPEeKuMIq7Lg2a0g" type="ChildRiName" description="Text">
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_xNaKE5xPEeKuMIq7Lg2a0g" type="DiagramName"/>
+              <children xsi:type="notation:BasicDecorationNode" xmi:id="_xNaKFJxPEeKuMIq7Lg2a0g" type="Description"/>
+              <styles xsi:type="notation:FontStyle" xmi:id="_xNaKEZxPEeKuMIq7Lg2a0g"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_xNaKEpxPEeKuMIq7Lg2a0g"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_xNaKD5xPEeKuMIq7Lg2a0g" x="264" y="661"/>
+          </children>
+          <styles xsi:type="datanotation:DataLineStyle" xmi:id="_xNQZAZxPEeKuMIq7Lg2a0g"/>
+          <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_xNQZApxPEeKuMIq7Lg2a0g" points="[-1049, 450, 3553, -290]$[-3827, 450, 775, -290]"/>
+          <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_xNaKFZxPEeKuMIq7Lg2a0g" id="(0.3333333333333333,0.0)"/>
+          <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_xNaKFpxPEeKuMIq7Lg2a0g" id="(0.8224508050089445,0.6398576512455516)"/>
+        </edges>
+      </contents>
+    </eAnnotations>
+  </SQLSchema:Schema>
+  <SQLTables:PersistentTable xmi:id="_h6EYQJxOEeKuMIq7Lg2a0g" name="Машинист" schema="_fVtlIJxOEeKuMIq7Lg2a0g" referencingForeignKeys="_wA9lAJxPEeKuMIq7Lg2a0g">
+    <columns xmi:id="_KTRQoJxPEeKuMIq7Lg2a0g" name="Фамилия" nullable="false">
+      <containedType xsi:type="SQLDataTypes:CharacterStringDataType" xmi:id="_PMykUJxPEeKuMIq7Lg2a0g" name="VARCHAR" primitiveType="CHARACTER_VARYING" length="30"/>
+    </columns>
+    <columns xmi:id="_PM8VUJxPEeKuMIq7Lg2a0g" name="Имя" nullable="false">
+      <containedType xsi:type="SQLDataTypes:CharacterStringDataType" xmi:id="_RS58QJxPEeKuMIq7Lg2a0g" name="VARCHAR" primitiveType="CHARACTER_VARYING" length="20"/>
+    </columns>
+    <columns xmi:id="_R3tScJxPEeKuMIq7Lg2a0g" name="Отчество" nullable="false">
+      <containedType xsi:type="SQLDataTypes:CharacterStringDataType" xmi:id="_TYH8UJxPEeKuMIq7Lg2a0g" name="VARCHAR" primitiveType="CHARACTER_VARYING" length="30"/>
+    </columns>
+    <columns xmi:id="_VIUuoJxPEeKuMIq7Lg2a0g" name="Паспорт" nullable="false">
+      <containedType xsi:type="SQLDataTypes:CharacterStringDataType" xmi:id="_XWVeUJxPEeKuMIq7Lg2a0g" name="VARCHAR" primitiveType="CHARACTER_VARYING" length="20"/>
+    </columns>
+    <constraints xsi:type="SQLConstraints:PrimaryKey" xmi:id="_jkDYYJxPEeKuMIq7Lg2a0g" name="Машинист_PK" members="_VIUuoJxPEeKuMIq7Lg2a0g" ForeignKey="_wA9lAJxPEeKuMIq7Lg2a0g"/>
+  </SQLTables:PersistentTable>
+  <SQLTables:PersistentTable xmi:id="_YUUwkJxPEeKuMIq7Lg2a0g" name="Электричка" schema="_fVtlIJxOEeKuMIq7Lg2a0g" referencingForeignKeys="_xL6VMJxPEeKuMIq7Lg2a0g">
+    <columns xmi:id="_ZagVgJxPEeKuMIq7Lg2a0g" name="Номер" nullable="false">
+      <containedType xsi:type="SQLDataTypes:IntegerDataType" xmi:id="_bC0XIJxPEeKuMIq7Lg2a0g" name="INT" primitiveType="INTEGER"/>
+    </columns>
+    <columns xmi:id="_cAW9cJxPEeKuMIq7Lg2a0g" name="Депо">
+      <containedType xsi:type="SQLDataTypes:CharacterStringDataType" xmi:id="_dN_OMJxPEeKuMIq7Lg2a0g" name="VARCHAR" primitiveType="CHARACTER_VARYING" length="30"/>
+    </columns>
+    <columns xmi:id="_e5IhYJxPEeKuMIq7Lg2a0g" name="Тип электрички" nullable="false">
+      <containedType xsi:type="SQLDataTypes:CharacterStringDataType" xmi:id="_gyugQJxPEeKuMIq7Lg2a0g" name="VARCHAR" primitiveType="CHARACTER_VARYING" length="15"/>
+    </columns>
+    <constraints xsi:type="SQLConstraints:PrimaryKey" xmi:id="_iHEdAJxPEeKuMIq7Lg2a0g" name="Электричка_PK" members="_ZagVgJxPEeKuMIq7Lg2a0g" ForeignKey="_xL6VMJxPEeKuMIq7Lg2a0g"/>
+  </SQLTables:PersistentTable>
+  <SQLTables:PersistentTable xmi:id="_rzjJYJxPEeKuMIq7Lg2a0g" name="Машинист-электричка" schema="_fVtlIJxOEeKuMIq7Lg2a0g">
+    <columns xmi:id="_wBHWAJxPEeKuMIq7Lg2a0g" name="Паспорт" nullable="false">
+      <containedType xsi:type="SQLDataTypes:CharacterStringDataType" xmi:id="_wBHWAZxPEeKuMIq7Lg2a0g" name="VARCHAR" primitiveType="CHARACTER_VARYING" length="20"/>
+    </columns>
+    <columns xmi:id="_xMN3MJxPEeKuMIq7Lg2a0g" name="Номер" nullable="false">
+      <containedType xsi:type="SQLDataTypes:IntegerDataType" xmi:id="_xMN3MZxPEeKuMIq7Lg2a0g" name="INT" primitiveType="INTEGER"/>
+    </columns>
+    <constraints xsi:type="SQLConstraints:ForeignKey" xmi:id="_wA9lAJxPEeKuMIq7Lg2a0g" name="Машинист-электричка_Машинист_FK" members="_wBHWAJxPEeKuMIq7Lg2a0g" onDelete="CASCADE" uniqueConstraint="_jkDYYJxPEeKuMIq7Lg2a0g" referencedTable="_h6EYQJxOEeKuMIq7Lg2a0g">
+      <eAnnotations xmi:id="_wA9lAZxPEeKuMIq7Lg2a0g" source="FK_MODELING_RELATIONSHIP">
+        <details xmi:id="_wA9lApxPEeKuMIq7Lg2a0g" key="FK_IS_IDENTIFYING_RELATIONSHIP" value="true"/>
+        <details xmi:id="_wA9lA5xPEeKuMIq7Lg2a0g" key="FK_CHILD_MULTIPLICITY" value="*"/>
+        <details xmi:id="_wA9lBJxPEeKuMIq7Lg2a0g" key="FK_CHILD_ROLE_NAME" value="Verb1"/>
+        <details xmi:id="_wA9lBZxPEeKuMIq7Lg2a0g" key="FK_PARENT_MULTIPLICITY" value="1"/>
+        <details xmi:id="_wA9lBpxPEeKuMIq7Lg2a0g" key="FK_PARENT_ROLE_NAME" value=""/>
+      </eAnnotations>
+    </constraints>
+    <constraints xsi:type="SQLConstraints:PrimaryKey" xmi:id="_wBaQ8JxPEeKuMIq7Lg2a0g" name="Машинист-электричка_PK" members="_wBHWAJxPEeKuMIq7Lg2a0g _xMN3MJxPEeKuMIq7Lg2a0g"/>
+    <constraints xsi:type="SQLConstraints:ForeignKey" xmi:id="_xL6VMJxPEeKuMIq7Lg2a0g" name="Машинист-электричка_Электричка_FK" members="_xMN3MJxPEeKuMIq7Lg2a0g" onDelete="CASCADE" uniqueConstraint="_iHEdAJxPEeKuMIq7Lg2a0g" referencedTable="_YUUwkJxPEeKuMIq7Lg2a0g">
+      <eAnnotations xmi:id="_xL6VMZxPEeKuMIq7Lg2a0g" source="FK_MODELING_RELATIONSHIP">
+        <details xmi:id="_xL6VMpxPEeKuMIq7Lg2a0g" key="FK_IS_IDENTIFYING_RELATIONSHIP" value="true"/>
+        <details xmi:id="_xL6VM5xPEeKuMIq7Lg2a0g" key="FK_CHILD_MULTIPLICITY" value="*"/>
+        <details xmi:id="_xL6VNJxPEeKuMIq7Lg2a0g" key="FK_CHILD_ROLE_NAME" value="Verb1"/>
+        <details xmi:id="_xL6VNZxPEeKuMIq7Lg2a0g" key="FK_PARENT_MULTIPLICITY" value="1"/>
+        <details xmi:id="_xL6VNpxPEeKuMIq7Lg2a0g" key="FK_PARENT_ROLE_NAME" value=""/>
+      </eAnnotations>
+    </constraints>
+  </SQLTables:PersistentTable>
+</xmi:XMI>

@@ -1,0 +1,117 @@
+
+using System;
+
+
+
+
+
+// @generated
+namespace Blank_Package2.Изменнеие_расписания_на_один_день
+{
+
+	
+	// @generated
+	public class GUI_оператора
+	{
+
+
+		// @generated
+		private Object Логин_пароль;
+
+
+
+		// @generated
+		private Object Начальная_станция_отправления;
+
+
+
+		// @generated
+		private Object Конечная_станция_прибытия;
+
+
+
+		// @generated
+		private Object Время_отправления;
+
+
+
+		// @generated
+		private Object Список_остановок;
+
+
+
+		// @generated
+		private Краткосрочное_изменение_расписания краткосрочное_изменение_расписания;
+
+
+	
+		// @generated
+		public void Открытие_формы()
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+	
+		// @generated
+		public void Ввод_логина_пароля()
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+	
+		// @generated
+		public void Выбор_начальной_и_конечной_станции()
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+	
+		// @generated
+		public void Выбор_времени_отправления_от_начальной_станции()
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+	
+		// @generated
+		public void Ввод_измененных_данных__на_1_день_()
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+	
+		// @generated
+		public void Сохранение_выполненных_изменений()
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+	
+		// @generated
+		public void Закрытие_формы()
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+
+	}
+	
+
+}
+
+
+

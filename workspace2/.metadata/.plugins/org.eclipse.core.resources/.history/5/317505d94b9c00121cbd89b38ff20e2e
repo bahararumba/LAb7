@@ -1,0 +1,119 @@
+
+
+using System;
+using System.Collections;
+using Overviews.Редактирование_расписания;
+
+
+
+// @generated
+namespace Blank_Package2.База_данных
+{
+
+	
+	// @generated
+	public class Расписание
+	{
+
+
+		// @generated
+		private EDate Время_отправления_от_станции;
+
+
+
+		// @generated
+		private EDate Время_прибытия_на_станцию;
+
+
+
+		// @generated
+		private String Название_остановки;
+
+
+
+		// @generated
+		private Hashtable маршрут;
+
+
+
+		// @generated
+		private Редактирование_расписания редактирование_расписания;
+
+
+	
+		// @generated
+		public void Выбор_времени_отправления_от_начальной_станции()
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+	
+		// @generated
+		public void Изменение_времени_отправления_прибытия_от_станции()
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+	
+		// @generated
+		public void Установить_время_отправления_от_станции()
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+	
+		// @generated
+		public void Установить_время_прибытия_на_станцию()
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+	
+		// @generated
+		public void Установить_все_станции_остановок()
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+	
+		// @generated
+		public void Выбор_времени_прибытия_на_станцию()
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+	
+		// @generated
+		public void Сохранение_выполненных_изменений()
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+	
+		// @generated
+		public void Получение_расписания_данной_электрички()
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+	}
+	
+}
+
+

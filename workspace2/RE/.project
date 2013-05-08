@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>RE</name>
+	<comment>C:\Documents and Settings\Student\IBM\rationalsdp\workspace2\RE\RE.sln
+C:\Documents and Settings\Student\IBM\rationalsdp\workspace2\RE\RE\RE.csproj
+false
+true
+</comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+		<nature>com.ibm.xtools.viz.dotnet.common.dotnetNature</nature>
+		<nature>com.ibm.xtools.viz.dotnet.common.csNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>mscorlib.dll</name>
+			<type>1</type>
+			<location>C:/WINDOWS/Microsoft.NET/Framework/v2.0.50727/mscorlib.dll</location>
+		</link>
+	</linkedResources>
+</projectDescription>

@@ -1,0 +1,76 @@
+
+using System;
+using Overviews.База_данных;
+
+
+
+
+
+// @generated
+namespace Blank_Package2.Просмотр_маршрута
+{
+
+	
+	// @generated
+	public class Просмотр_расписания
+	{
+
+
+		// @generated
+		private Object Экран_приветствия;
+
+
+
+		// @generated
+		private GUI_пассажира gUI_пассажира;
+
+
+
+		// @generated
+		private Маршрут маршрут;
+
+
+	
+		// @generated
+		public void Загрузка_маршрута()
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+	
+		// @generated
+		public void Выбор_направления()
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+	
+		// @generated
+		public void выбор_времени_отправления_или_прибытия()
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+	
+		// @generated
+		public void Получение_расписания_данной_электрички()
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+
+	}
+	
+
+}
+
+
+

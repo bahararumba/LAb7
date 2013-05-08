@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<SQLSchema:Database xmlns:datamodelversion="http://www.ibm.com/com.ibm.datatools.core/model/data/1.1.0.0" xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:SQLSchema="http:///org/eclipse/datatools/modelbase/sql/schema.ecore" xmi:id="_fQft8JxOEeKuMIq7Lg2a0g" name="Database" vendor="SQL Server" version="2008"/>

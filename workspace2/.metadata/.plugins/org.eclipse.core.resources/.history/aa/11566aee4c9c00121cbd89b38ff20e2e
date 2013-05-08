@@ -1,0 +1,72 @@
+
+using System;
+using System.Collections;
+
+
+
+
+
+// @generated
+namespace Blank_Package2.База_данных
+{
+
+	
+	// @generated
+	public class Направление
+	{
+
+
+		// @generated
+		private String Название_направления;
+
+
+
+		// @generated
+		private String Станция_вокзала;
+
+
+
+		// @generated
+		private Hashtable остановки;
+
+
+
+		// @generated
+		private Hashtable маршрут;
+
+
+	
+		// @generated
+		public void Ввод_названия()
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+	
+		// @generated
+		public void Ввод_станции()
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+	
+		// @generated
+		public void Получение_названия()
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+
+	}
+	
+
+}
+
+
+

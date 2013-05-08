@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<xmi:XMI xmlns:datamodelversion="http://www.ibm.com/com.ibm.datatools.core/model/data/1.1.0.0" xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:SQLSchema="http:///org/eclipse/datatools/modelbase/sql/schema.ecore" xmlns:datanotation="http:///datanotation.ecore">
+  <SQLSchema:Database xmi:id="_fQft8JxOEeKuMIq7Lg2a0g" name="Database" vendor="SQL Server" version="2008" schemas="_fVtlIJxOEeKuMIq7Lg2a0g"/>
+  <SQLSchema:Schema xmi:id="_fVtlIJxOEeKuMIq7Lg2a0g" name="Schema" database="_fQft8JxOEeKuMIq7Lg2a0g">
+    <eAnnotations xmi:id="_fWKREJxOEeKuMIq7Lg2a0g" source="diagram">
+      <contents xsi:type="datanotation:DataDiagram" xmi:id="_fWKREZxOEeKuMIq7Lg2a0g" type="IE_CrowFoot" name="Diagram1" viewKind="ProjectExplorer" notation="IE_CrowFoot" kind="Physical">
+        <styles xsi:type="datanotation:DataAttributeStyle" xmi:id="_fWKREpxOEeKuMIq7Lg2a0g"/>
+        <styles xsi:type="datanotation:DataCompartmentStyle" xmi:id="_fWKRE5xOEeKuMIq7Lg2a0g"/>
+        <styles xsi:type="datanotation:DataDisplayStyle" xmi:id="_fWKRFJxOEeKuMIq7Lg2a0g"/>
+        <styles xsi:type="datanotation:DataDiagramRelationshipStyle" xmi:id="_fWKRFZxOEeKuMIq7Lg2a0g"/>
+        <styles xsi:type="datanotation:DataShapeNameStyle" xmi:id="_fWKRFpxOEeKuMIq7Lg2a0g"/>
+        <styles xsi:type="datanotation:DataDiagramFormattingStyle" xmi:id="_fWKRF5xOEeKuMIq7Lg2a0g"/>
+        <element xsi:nil="true"/>
+      </contents>
+    </eAnnotations>
+  </SQLSchema:Schema>
+</xmi:XMI>

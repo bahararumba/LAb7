@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="ASCII"?>
+<model:Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="com.ibm.xtools.cli.model" name="CS_TRANSFORM_REAPPLY" filePath="C:\C#\R\R\R.csproj">
+  <compilationUnits generated="true" name="&#x41c;&#x430;&#x448;&#x438;&#x43d;&#x438;&#x441;&#x442;.cs" filePath="&#x41c;&#x430;&#x448;&#x438;&#x43d;&#x438;&#x441;&#x442;.cs" complete="true" preprocessorDirectives="">
+    <compilationUnitMembers xsi:type="model:NamespaceDeclaration" generated="true" documentation="" name="Blank_Package3" preUsercode="&#xA;" postUsercode="&#xA;" fullyQualifiedName="Blank_Package3">
+      <namespaceMembers xsi:type="model:CompositeTypeDeclaration" generated="true" startLine="13" endLine="90" documentation="" name="&#x41c;&#x430;&#x448;&#x438;&#x43d;&#x438;&#x441;&#x442;" postUsercode="&#xA;" fullyQualifiedName="Blank_Package3.&#x41c;&#x430;&#x448;&#x438;&#x43d;&#x438;&#x441;&#x442;" modifiers="512" kind="CLASS">
+        <typeMembers xsi:type="model:Field" generated="true" startLine="18" documentation="" name="&#x424;&#x430;&#x43c;&#x438;&#x43b;&#x438;&#x44f;" modifiers="1024">
+          <type xsi:type="model:UserDefinedType" rawString="System.String" kind="CLASS">
+            <name rawString="System.String">
+              <typeNameSegments kind="CLASS" identifier="String"/>
+              <namespaces>System</namespaces>
+            </name>
+          </type>
+        </typeMembers>
+        <typeMembers xsi:type="model:Field" generated="true" startLine="23" documentation="" name="&#x418;&#x43c;&#x44f;" modifiers="1024">
+          <type xsi:type="model:UserDefinedType" rawString="System.String" kind="CLASS">
+            <name rawString="System.String">
+              <typeNameSegments kind="CLASS" identifier="String"/>
+              <namespaces>System</namespaces>
+            </name>
+          </type>
+        </typeMembers>
+        <typeMembers xsi:type="model:Field" generated="true" startLine="28" documentation="" name="&#x41e;&#x442;&#x447;&#x435;&#x441;&#x442;&#x432;&#x43e;" modifiers="1024">
+          <type xsi:type="model:UserDefinedType" rawString="System.String" kind="CLASS">
+            <name rawString="System.String">
+              <typeNameSegments kind="CLASS" identifier="String"/>
+              <namespaces>System</namespaces>
+            </name>
+          </type>
+        </typeMembers>
+        <typeMembers xsi:type="model:Field" generated="true" startLine="33" documentation="" name="&#x41f;&#x430;&#x441;&#x43f;&#x43e;&#x440;&#x442;" modifiers="1024">
+          <type xsi:type="model:UserDefinedType" rawString="System.String" kind="CLASS">
+            <name rawString="System.String">
+              <typeNameSegments kind="CLASS" identifier="String"/>
+              <namespaces>System</namespaces>
+            </name>
+          </type>
+        </typeMembers>
+        <typeMembers xsi:type="model:Method" generated="true" startLine="38" endLine="42" documentation="" name="&#x412;&#x432;&#x435;&#x441;&#x442;&#x438;_&#x444;&#x430;&#x43c;&#x438;&#x43b;&#x438;&#x44e;" modifiers="512" body="&#xD;&#xA;&#x9;&#x9;&#x9;//TODO: Auto-generated method stub&#xD;&#xA;&#x9;&#x9;&#x9;throw new System.NotImplementedException();&#xD;&#xA;&#x9;&#x9;">
+          <returnType xsi:type="model:PrimitiveType" basicDataType="VOID"/>
+        </typeMembers>
+        <typeMembers xsi:type="model:Method" generated="true" startLine="47" endLine="51" documentation="" name="&#x412;&#x432;&#x435;&#x441;&#x442;&#x438;_&#x438;&#x43c;&#x44f;" modifiers="512" body="&#xD;&#xA;&#x9;&#x9;&#x9;//TODO: Auto-generated method stub&#xD;&#xA;&#x9;&#x9;&#x9;throw new System.NotImplementedException();&#xD;&#xA;&#x9;&#x9;">
+          <returnType xsi:type="model:PrimitiveType" basicDataType="VOID"/>
+        </typeMembers>
+        <typeMembers xsi:type="model:Method" generated="true" startLine="56" endLine="60" documentation="" name="&#x412;&#x432;&#x435;&#x441;&#x442;&#x438;_&#x43e;&#x442;&#x447;&#x435;&#x441;&#x442;&#x432;&#x43e;" modifiers="512" body="&#xD;&#xA;&#x9;&#x9;&#x9;//TODO: Auto-generated method stub&#xD;&#xA;&#x9;&#x9;&#x9;throw new System.NotImplementedException();&#xD;&#xA;&#x9;&#x9;">
+          <returnType xsi:type="model:PrimitiveType" basicDataType="VOID"/>
+        </typeMembers>
+        <typeMembers xsi:type="model:Method" generated="true" startLine="65" endLine="69" documentation="" name="&#x412;&#x432;&#x435;&#x441;&#x442;&#x438;_&#x43f;&#x430;&#x441;&#x43f;&#x43e;&#x440;&#x442;" modifiers="512" body="&#xD;&#xA;&#x9;&#x9;&#x9;//TODO: Auto-generated method stub&#xD;&#xA;&#x9;&#x9;&#x9;throw new System.NotImplementedException();&#xD;&#xA;&#x9;&#x9;">
+          <returnType xsi:type="model:PrimitiveType" basicDataType="VOID"/>
+        </typeMembers>
+        <typeMembers xsi:type="model:Method" generated="true" startLine="74" endLine="78" documentation="" name="&#x41f;&#x43e;&#x43b;&#x443;&#x447;&#x438;&#x442;&#x44c;_&#x424;&#x418;&#x41e;" modifiers="512" body="&#xD;&#xA;&#x9;&#x9;&#x9;//TODO: Auto-generated method stub&#xD;&#xA;&#x9;&#x9;&#x9;throw new System.NotImplementedException();&#xD;&#xA;&#x9;&#x9;">
+          <returnType xsi:type="model:PrimitiveType" basicDataType="VOID"/>
+        </typeMembers>
+        <typeMembers xsi:type="model:Method" generated="true" startLine="83" endLine="87" documentation="" name="&#x41f;&#x43e;&#x43b;&#x443;&#x447;&#x438;&#x442;&#x44c;_&#x43f;&#x430;&#x441;&#x43f;&#x43e;&#x440;&#x442;" postUsercode="&#xA;" modifiers="512" body="&#xD;&#xA;&#x9;&#x9;&#x9;//TODO: Auto-generated method stub&#xD;&#xA;&#x9;&#x9;&#x9;throw new System.NotImplementedException();&#xD;&#xA;&#x9;&#x9;">
+          <returnType xsi:type="model:PrimitiveType" basicDataType="VOID"/>
+        </typeMembers>
+        <typeMembers xsi:type="model:Field" generated="true" startLine="2147483647" documentation="" name="&#x44d;&#x43b;&#x435;&#x43a;&#x442;&#x440;&#x438;&#x447;&#x43a;&#x430;" modifiers="1024">
+          <type xsi:type="model:UserDefinedType" rawString="System.Collections.Hashtable" kind="CLASS">
+            <name rawString="System.Collections.Hashtable">
+              <typeNameSegments kind="CLASS" identifier="Hashtable"/>
+              <namespaces>System</namespaces>
+              <namespaces>Collections</namespaces>
+            </name>
+          </type>
+        </typeMembers>
+      </namespaceMembers>
+    </compilationUnitMembers>
+    <usingDirectives>
+      <namespaceOrTypeName rawString="System">
+        <namespaces>System</namespaces>
+      </namespaceOrTypeName>
+    </usingDirectives>
+    <usingDirectives>
+      <namespaceOrTypeName rawString="System.Collections">
+        <namespaces>System</namespaces>
+        <namespaces>Collections</namespaces>
+      </namespaceOrTypeName>
+    </usingDirectives>
+  </compilationUnits>
+  <compilationUnits generated="true" name="&#x42d;&#x43b;&#x435;&#x43a;&#x442;&#x440;&#x438;&#x447;&#x43a;&#x430;.cs" filePath="&#x42d;&#x43b;&#x435;&#x43a;&#x442;&#x440;&#x438;&#x447;&#x43a;&#x430;.cs" complete="true">
+    <compilationUnitMembers xsi:type="model:NamespaceDeclaration" generated="true" documentation="" name="Blank_Package3" fullyQualifiedName="Blank_Package3">
+      <namespaceMembers xsi:type="model:CompositeTypeDeclaration" generated="true" documentation="" name="&#x42d;&#x43b;&#x435;&#x43a;&#x442;&#x440;&#x438;&#x447;&#x43a;&#x430;" fullyQualifiedName="Blank_Package3.&#x42d;&#x43b;&#x435;&#x43a;&#x442;&#x440;&#x438;&#x447;&#x43a;&#x430;" modifiers="512" kind="CLASS">
+        <typeMembers xsi:type="model:Field" generated="true" startLine="2147483647" documentation="" name="&#x41d;&#x43e;&#x43c;&#x435;&#x440;" modifiers="1024">
+          <type xsi:type="model:PrimitiveType" basicDataType="INT"/>
+        </typeMembers>
+        <typeMembers xsi:type="model:Field" generated="true" startLine="2147483647" documentation="" name="&#x414;&#x415;&#x41f;&#x41e;" modifiers="1024">
+          <type xsi:type="model:UserDefinedType" rawString="System.String" kind="CLASS">
+            <name rawString="System.String">
+              <typeNameSegments kind="CLASS" identifier="String"/>
+              <namespaces>System</namespaces>
+            </name>
+          </type>
+        </typeMembers>
+        <typeMembers xsi:type="model:Field" generated="true" startLine="2147483647" documentation="" name="&#x422;&#x438;&#x43f;" modifiers="1024">
+          <type xsi:type="model:UserDefinedType" rawString="System.String" kind="CLASS">
+            <name rawString="System.String">
+              <typeNameSegments kind="CLASS" identifier="String"/>
+              <namespaces>System</namespaces>
+            </name>
+          </type>
+        </typeMembers>
+        <typeMembers xsi:type="model:Field" generated="true" startLine="2147483647" documentation="" name="&#x43c;&#x430;&#x440;&#x448;&#x440;&#x443;&#x442;" modifiers="1024">
+          <type xsi:type="model:UserDefinedType" rawString="System.Collections.Hashtable" kind="CLASS">
+            <name rawString="System.Collections.Hashtable">
+              <typeNameSegments kind="CLASS" identifier="Hashtable"/>
+              <namespaces>System</namespaces>
+              <namespaces>Collections</namespaces>
+            </name>
+          </type>
+        </typeMembers>
+        <typeMembers xsi:type="model:Field" generated="true" startLine="2147483647" documentation="" name="&#x43c;&#x430;&#x448;&#x438;&#x43d;&#x438;&#x441;&#x442;" modifiers="1024">
+          <type xsi:type="model:UserDefinedType" rawString="System.Collections.Hashtable" kind="CLASS">
+            <name rawString="System.Collections.Hashtable">
+              <typeNameSegments kind="CLASS" identifier="Hashtable"/>
+              <namespaces>System</namespaces>
+              <namespaces>Collections</namespaces>
+            </name>
+          </type>
+        </typeMembers>
+        <typeMembers xsi:type="model:Method" generated="true" startLine="2147483647" documentation="" name="&#x417;&#x430;&#x434;&#x430;&#x442;&#x44c;_&#x43d;&#x43e;&#x43c;&#x435;&#x440;" modifiers="512">
+          <returnType xsi:type="model:PrimitiveType" basicDataType="VOID"/>
+        </typeMembers>
+        <typeMembers xsi:type="model:Method" generated="true" startLine="2147483647" documentation="" name="&#x417;&#x430;&#x434;&#x430;&#x442;&#x44c;_&#x434;&#x435;&#x43f;&#x43e;" modifiers="512">
+          <returnType xsi:type="model:PrimitiveType" basicDataType="VOID"/>
+        </typeMembers>
+        <typeMembers xsi:type="model:Method" generated="true" startLine="2147483647" documentation="" name="&#x423;&#x43a;&#x430;&#x437;&#x430;&#x442;&#x44c;_&#x442;&#x438;&#x43f;" modifiers="512">
+          <returnType xsi:type="model:PrimitiveType" basicDataType="VOID"/>
+        </typeMembers>
+        <typeMembers xsi:type="model:Method" generated="true" startLine="2147483647" documentation="" name="&#x43f;&#x43e;&#x43b;&#x443;&#x447;&#x438;&#x442;_&#x43d;&#x43e;&#x43c;&#x435;&#x440;" modifiers="512">
+          <returnType xsi:type="model:PrimitiveType" basicDataType="VOID"/>
+        </typeMembers>
+        <typeMembers xsi:type="model:Method" generated="true" startLine="2147483647" documentation="" name="&#x43f;&#x43e;&#x43b;&#x443;&#x447;&#x438;&#x442;&#x44c;_&#x434;&#x435;&#x43f;&#x43e;" modifiers="512">
+          <returnType xsi:type="model:PrimitiveType" basicDataType="VOID"/>
+        </typeMembers>
+        <typeMembers xsi:type="model:Method" generated="true" startLine="2147483647" documentation="" name="&#x43f;&#x43e;&#x43b;&#x443;&#x447;&#x438;&#x442;&#x44c;_&#x442;&#x438;&#x43f;" modifiers="512">
+          <returnType xsi:type="model:PrimitiveType" basicDataType="VOID"/>
+        </typeMembers>
+      </namespaceMembers>
+    </compilationUnitMembers>
+    <usingDirectives>
+      <namespaceOrTypeName rawString="System">
+        <namespaces>System</namespaces>
+      </namespaceOrTypeName>
+    </usingDirectives>
+    <usingDirectives>
+      <namespaceOrTypeName rawString="System.Collections">
+        <namespaces>System</namespaces>
+        <namespaces>Collections</namespaces>
+      </namespaceOrTypeName>
+    </usingDirectives>
+  </compilationUnits>
+  <codegenOptions indentationStyle="BSD" filePrefix="" fileSuffix=""/>
+</model:Project>

@@ -1,0 +1,75 @@
+
+using System;
+
+
+
+
+
+// @generated
+namespace Blank_Package2.База_данных
+{
+
+	
+	// @generated
+	public class Остановки
+	{
+
+
+		// @generated
+		private String Название_станции;
+
+
+
+		// @generated
+		private String Указатель_на_следующую_станцию;
+
+
+
+		// @generated
+		private Направление направление;
+
+
+	
+		// @generated
+		public void Ввести_название_станции(Object Название_станции)
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+	
+		// @generated
+		public void Ввести_указатель_на_след_станцию(Object Следующая_станция)
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+	
+		// @generated
+		public void Получить_название_станции()
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+	
+		// @generated
+		public void Получить_указатель()
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+
+	}
+	
+
+}
+
+
+

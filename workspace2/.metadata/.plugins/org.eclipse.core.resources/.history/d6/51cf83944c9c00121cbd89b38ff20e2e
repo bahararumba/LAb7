@@ -1,0 +1,86 @@
+
+using System;
+using System.Collections;
+
+
+
+
+
+// @generated
+namespace Blank_Package2.База_данных
+{
+
+	
+	// @generated
+	public class Стоимость_билета
+	{
+
+
+		// @generated
+		private String Начальная_станция;
+
+
+
+		// @generated
+		private String Конечная_станция;
+
+
+
+		// @generated
+		private float Стоимость_билета;
+
+
+
+		// @generated
+		private Hashtable маршрут;
+
+
+
+		// @generated
+		private Маршрут маршрут2;
+
+
+	
+		// @generated
+		public void Выбор_начальной()
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+	
+		// @generated
+		public void Выбор_конечной()
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+	
+		// @generated
+		public void Задание_стоимости()
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+	
+		// @generated
+		public void Получение_стоимости()
+		{
+			//TODO: Auto-generated method stub
+			throw new System.NotImplementedException();
+		}
+	
+
+
+	}
+	
+
+}
+
+
+
