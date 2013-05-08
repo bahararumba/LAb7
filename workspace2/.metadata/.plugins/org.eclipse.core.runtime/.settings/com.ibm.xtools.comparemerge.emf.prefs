@@ -1,3 +1,0 @@
-#Thu May 17 17:31:56 MSD 2012
-eclipse.preferences.version=1
-com.ibm.xtools.transform.java.uml.Java-to-UML=Filter out Diagram Changes\nFilter out Events Deltas\nFilter out Parameter Effect Changes\nFilter out Return Parameter Name Changes\nFilter out Return Parameter Order Changes\nFilter out Association Deletes\nFilter out Trivial Lower and Upper Bound Changes\nFilter out Attribute and Operation Order Changes\nFilter out Parameter Documentation Changes\nFilter out Irrelevant Delete Deltas\nFilter out Model Capabilities Deltas\nFilter out changes in properties that are not navigable \n

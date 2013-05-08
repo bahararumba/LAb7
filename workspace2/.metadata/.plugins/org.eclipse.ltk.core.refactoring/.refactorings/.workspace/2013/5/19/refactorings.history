@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Delete resource &apos;Miscellaneous Models/Blank Package1.emx&apos;" deleteContents="false" description="Delete resource &apos;Miscellaneous Models/Blank Package1.emx&apos;" element1="/Miscellaneous Models/Blank Package1.emx" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1368002626609"/>
-</session>
